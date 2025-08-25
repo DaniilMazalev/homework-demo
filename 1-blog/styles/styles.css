@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(55, 65, 81, 1);
+    color: #FFFFFF;
+}
+
+ul {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+}
+
+.topic-date {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.author {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.job-title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.firstp {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.secondp {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
